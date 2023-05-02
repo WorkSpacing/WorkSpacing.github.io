@@ -6,7 +6,7 @@ body {
     overflow-x: hidden;
 }
 .table {
-    height: 70vh;
+    height: 80vh;
     width: 70vw;
     background-color: purple;
     display: flex;
